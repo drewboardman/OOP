@@ -1,0 +1,755 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"word",
+				"word_count"
+			],
+			[
+				"cl",
+				"cla	class .. end"
+			],
+			[
+				"req",
+				"require_relative"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"cla",
+				"cla	class .. end"
+			],
+			[
+				"res",
+				"restaurant"
+			],
+			[
+				"rec",
+				"recommended_restaurant"
+			],
+			[
+				"las",
+				"last_place_name"
+			],
+			[
+				"rest",
+				"rest_id"
+			],
+			[
+				"last",
+				"last_place_id"
+			],
+			[
+				"resta",
+				"restaurants"
+			],
+			[
+				"vi",
+				"visit_params"
+			],
+			[
+				"if",
+				"ife	if … else … end"
+			],
+			[
+				"visit",
+				"visit_params"
+			],
+			[
+				"rating",
+				"rating_params"
+			],
+			[
+				"rati",
+				"rating_params"
+			],
+			[
+				"te",
+				"text_shouts"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"fol",
+				"followed_users"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"butto",
+				"button_to"
+			],
+			[
+				"class",
+				"class_name"
+			],
+			[
+				"follow",
+				"following_relationships"
+			],
+			[
+				"followe",
+				"followed_users"
+			],
+			[
+				"follo",
+				"following_relationships"
+			],
+			[
+				"su",
+				"submit"
+			],
+			[
+				"cont",
+				"content_id"
+			],
+			[
+				"content",
+				"content_type"
+			],
+			[
+				"au",
+				"author_name"
+			],
+			[
+				"asser",
+				"assert_equal"
+			],
+			[
+				"e",
+				"end	only end	erb"
+			],
+			[
+				"before",
+				"before_filter"
+			],
+			[
+				"gl",
+				"glyphicon-edit"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"el",
+				"else	only else	erb"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"la",
+				"label"
+			],
+			[
+				"par",
+				"partial	include partial view	erb"
+			],
+			[
+				"artic",
+				"article"
+			],
+			[
+				"art",
+				"article_path"
+			],
+			[
+				"article",
+				"articles_path"
+			],
+			[
+				"er",
+				"error"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"st",
+				"style	Attr"
+			],
+			[
+				"en",
+				"end	end (ERB)"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"a",
+				"article"
+			],
+			[
+				"co",
+				"comment_params"
+			],
+			[
+				"commen",
+				"comments"
+			],
+			[
+				"com",
+				"comment"
+			],
+			[
+				"pa",
+				"params"
+			],
+			[
+				"arti",
+				"article_path"
+			],
+			[
+				"text",
+				"text_area"
+			],
+			[
+				"bo",
+				"border-color"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"b",
+				"br"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"s",
+				"span	Tag"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"as",
+				"aside	Tag"
+			],
+			[
+				"initial",
+				"initial_value"
+			],
+			[
+				"ini",
+				"initial_value"
+			],
+			[
+				"tes",
+				"test1"
+			],
+			[
+				"br",
+				"brightness_difference"
+			],
+			[
+				"sel",
+				"self"
+			],
+			[
+				"test",
+				"test2"
+			],
+			[
+				"another",
+				"another_color"
+			],
+			[
+				"bri",
+				"brightness_index"
+			],
+			[
+				"left",
+				"left_half"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"wor",
+				"word_count"
+			],
+			[
+				"sent",
+				"sent_arr"
+			],
+			[
+				"length",
+				"length_finder"
+			],
+			[
+				"sub",
+				"subtract"
+			],
+			[
+				"roman",
+				"roman_old"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 148.0,
+		"selected_items":
+		[
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"erb",
+				"Set Syntax: ERB"
+			],
+			[
+				"scss",
+				"Set Syntax: CSS"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"rai",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"er",
+				"Set Syntax: ERB"
+			],
+			[
+				"rail",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"rails",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"htl",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"ru",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"html",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/drew/Dropbox/the_odin_project/OOP/tic_tac_toe"
+	],
+	"file_history":
+	[
+		"/home/drew/Dropbox/the_odin_project/OOP/tic_tac_toe/tic_tac_toe.rb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/spec/models/restaurant_spec.rb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/spec/models/rating_spec.rb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/Gemfile",
+		"/home/drew/Dropbox/springbot/lunch/lunch/README.rdoc",
+		"/home/drew/Dropbox/springbot/lunch/lunch/app/views/restaurants/show.html.erb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/app/views/restaurants/edit.html.erb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/app/views/restaurants/_add.html.erb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/app/views/restaurants/_edit.html.erb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/app/controllers/users_controller.rb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/config/routes.rb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/app/views/users/new.html.erb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/vendor/assets/stylesheets/bootstrap.css",
+		"/home/drew/Dropbox/springbot/lunch/lunch/spec/factories/ratings.rb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/spec/factories/visits.rb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/spec/factories/restaurants.rb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/app/views/layouts/_navbar.html.erb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/app/views/ratings/_ratings_form.html.erb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/app/views/restaurants/_restaurant.html.erb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/app/assets/stylesheets/scrolling-nav.css",
+		"/home/drew/Dropbox/springbot/lunch/lunch/app/views/restaurants/index.html.erb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/spec/models/user_spec.rb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/app/views/restaurants/create.html.erb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/app/controllers/dashboards_controller.rb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/app/views/restaurants/_restaurants_list.html.erb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/app/controllers/restaurants_controller.rb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/app/views/dashboards/show.html.erb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/db/seeds.rb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/app/views/restaurants/new.html.erb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/app/models/user.rb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/app/models/rating.rb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/app/views/ratings/new.html.erb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/app/views/sessions/new.html.erb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/app/assets/stylesheets/custom.css",
+		"/home/drew/Dropbox/springbot/lunch/lunch/app/views/layouts/application.html.erb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/app/views/ratings/_rate.html.erb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/app/views/restaurants/_rate.html.erb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/app/controllers/visits_controller.rb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/app/controllers/sessions_controller.rb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/app/controllers/ratings_controller.rb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/app/models/restaurant.rb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/app/controllers/homes_controller.rb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/db/migrate/20141105175608_create_users.rb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/db/migrate/20141106052631_create_ratings.rb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/app/controllers/application_controller.rb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/db/migrate/20141106052432_create_restaurants.rb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/app/views/homes/show.html.erb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/db/migrate/20141107221959_remove_user_id_from_restaurants.rb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/config/application.rb",
+		"/home/drew/Dropbox/springbot/lunch/lunch/app/assets/stylesheets/application.css",
+		"/home/drew/Dropbox/springbot/lunch/lunch/app/assets/javascripts/application.js",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/views/searches/show.html.erb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/controllers/hashtags_controller.rb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/models/search.rb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/assets/stylesheets/bootstrap.css",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/assets/stylesheets/bootstrap.min.css",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/views/hashtags/show.html.erb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/views/search/_search.html.erb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/models/text_shout.rb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/models/photo_shout.rb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/Gemfile",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/views/searches/_search.html.erb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/config/routes.rb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/controllers/searches_controller.rb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/views/layouts/application.html.erb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/test/fixtures/photo_shouts.yml",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/controllers/photo_shouts_controller.rb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/helpers/photo_shouts_helper.rb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/config/environments/production.rb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/config/environments/test.rb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/views/dashboards/show.html.erb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/assets/javascripts/searches.js.coffee",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/helpers/searches_helper.rb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/config/secrets.yml",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/models/dashboard.rb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/config/locales/monban.en.yml",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/config/initializers/mime_types.rb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/tmp/cache/assets/development/sass/8190d6ac73ac59518bb3ab541bd188df8ffb2606/text_shouts.css.scssc",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/tmp/cache/assets/development/sass/8190d6ac73ac59518bb3ab541bd188df8ffb2606/photo_shouts.css.scssc",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/tmp/cache/assets/development/sass/8190d6ac73ac59518bb3ab541bd188df8ffb2606/shouts.css.scssc",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/test/helpers/following_relationships_helper_test.rb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/test/helpers/searches_helper_test.rb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/test/helpers/dashboards_helper_test.rb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/tmp/cache/assets/development/sass/8190d6ac73ac59518bb3ab541bd188df8ffb2606/hashtags.css.scssc",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/test/helpers/hashtags_helper_test.rb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/test/controllers/hashtags_controller_test.rb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/assets/stylesheets/hashtags.css.scss",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/assets/javascripts/hashtags.js.coffee",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/helpers/hashtags_helper.rb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/assets/stylesheets/searches.css.scss",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/helpers/dashboards_helper.rb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/controllers/dashboards_controller.rb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/config/database.yml",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/Rakefile",
+		"/home/drew/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/drew/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/helpers/shouts_helper.rb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/models/user.rb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/models/concerns/following.rb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/models/timeline.rb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/views/text_shouts/_text_shout.html.erb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/views/users/show.html.erb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/controllers/following_relationships_controller.rb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/views/timelines/_timeline.html.erb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/views/users/index.html.erb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/helpers/users_helper.rb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/controllers/users_controller.rb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/models/following_relationship.rb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/views/photo_shouts/_photo_shout.html.erb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/views/shouts/_shout.html.erb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/db/migrate/20140922211525_create_photo_shouts.rb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/models/shout.rb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/controllers/text_shouts_controller.rb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/controllers/shouts_controller.rb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/db/migrate/20140922191036_create_text_shouts.rb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/db/migrate/20140922191310_make_shouts_polymorphic.rb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/views/users/_user.html.erb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/views/users/_shouts.html.erb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/views/users/new.html.erb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/views/shouts/show.html.erb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/controllers/homes_controller.rb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/config/initializers/simple_form_bootstrap.rb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/views/sessions/new.html.erb",
+		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/views/homes/show.html.erb",
+		"/home/drew/Dropbox/the_odin_project/shouter/readme.txt",
+		"/home/drew/Dropbox/the_odin_project/Jumpstart_static/blogger_advanced/app/views/pages/index.html.erb",
+		"/home/drew/Dropbox/the_odin_project/Jumpstart_static/blogger_advanced/app/views/pages/show.html.erb",
+		"/home/drew/Dropbox/the_odin_project/Jumpstart_static/blogger_advanced/app/controllers/articles_controller.rb"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"weight",
+			"restaurant",
+			"Restaurant",
+			"visit",
+			"Visit",
+			"restaurant",
+			"Restaurant",
+			"Visit",
+			"article",
+			"f",
+			"password",
+			"end",
+			"search_term",
+			"term",
+			"text_shouts",
+			"search",
+			"()",
+			"options",
+			"all",
+			"\n		",
+			"		\n",
+			"%>\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"rating",
+			"Rating",
+			"restaurant",
+			"Restaurant",
+			"restaurant"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "tic_tac_toe.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"sear",
+				"app/models/search.rb"
+			],
+			[
+				"shout.r",
+				"app/models/shout.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"photo",
+				"app/models/photo_shout.rb"
+			],
+			[
+				"text",
+				"app/models/text_shout.rb"
+			],
+			[
+				"search.rb",
+				"app/models/search.rb"
+			],
+			[
+				"model",
+				"app/models/dashboard.rb"
+			],
+			[
+				"hastag",
+				"app/controllers/hashtags_controller.rb"
+			],
+			[
+				"show",
+				"app/views/hashtags/show.html.erb"
+			],
+			[
+				"dashboardsho",
+				"app/views/dashboards/show.html.erb"
+			],
+			[
+				"dash",
+				"app/views/dashboards/show.html.erb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 249.0,
+		"selected_items":
+		[
+		],
+		"width": 378.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 187.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
