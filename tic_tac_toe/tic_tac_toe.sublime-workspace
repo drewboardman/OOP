@@ -4,6 +4,54 @@
 		"selected_items":
 		[
 			[
+				"any",
+				"any_instance"
+			],
+			[
+				"y",
+				"y_cell"
+			],
+			[
+				"all",
+				"all_same"
+			],
+			[
+				"win",
+				"winning_position_values"
+			],
+			[
+				"wi",
+				"winning_position"
+			],
+			[
+				"winning",
+				"winning_position"
+			],
+			[
+				"expe",
+				"expbe	expect(obj).to be"
+			],
+			[
+				"expec",
+				"exprec	expect(object).to receive(message)"
+			],
+			[
+				"exp",
+				"expeq	expect(obj).to eq(value)"
+			],
+			[
+				"mod",
+				"mod	module .. end"
+			],
+			[
+				"raise",
+				"raise_error"
+			],
+			[
+				"require",
+				"require_relative"
+			],
+			[
 				"word",
 				"word_count"
 			],
@@ -315,16 +363,132 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "lib/tic_tac_toe.rb",
+			"settings":
+			{
+				"buffer_size": 139,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/tic_tac_toe/board.rb",
+			"settings":
+			{
+				"buffer_size": 1154,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/tic_tac_toe/game.rb",
+			"settings":
+			{
+				"buffer_size": 263,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 146,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/tic_tac_toe/core_extensions.rb",
+			"settings":
+			{
+				"buffer_size": 268,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/tic_tac_toe/cell.rb",
+			"settings":
+			{
+				"buffer_size": 124,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/tic_tac_toe/player.rb",
+			"settings":
+			{
+				"buffer_size": 168,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spec/spec_helper.rb",
+			"settings":
+			{
+				"buffer_size": 76,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spec/player_spec.rb",
+			"settings":
+			{
+				"buffer_size": 823,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spec/game_spec.rb",
+			"settings":
+			{
+				"buffer_size": 640,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spec/board_spec.rb",
+			"settings":
+			{
+				"buffer_size": 3498,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spec/core_extensions_spec.rb",
+			"settings":
+			{
+				"buffer_size": 1650,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spec/cell_spec.rb",
+			"settings":
+			{
+				"buffer_size": 492,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 148.0,
+		"height": 263.0,
 		"selected_items":
 		[
 			[
+				"rsp",
+				"Set Syntax: RSpec"
+			],
+			[
+				"rspe",
+				"Set Syntax: RSpec"
+			],
+			[
 				"ruby",
 				"Set Syntax: Ruby"
+			],
+			[
+				"rspec",
+				"Set Syntax: RSpec"
 			],
 			[
 				"erb",
@@ -407,7 +571,7 @@
 				"Set Syntax: JavaScript"
 			]
 		],
-		"width": 435.0
+		"width": 516.0
 	},
 	"console":
 	{
@@ -428,10 +592,15 @@
 	},
 	"expanded_folders":
 	[
-		"/home/drew/Dropbox/the_odin_project/OOP/tic_tac_toe"
+		"/home/drew/Dropbox/the_odin_project/OOP/tic_tac_toe",
+		"/home/drew/Dropbox/the_odin_project/OOP/tic_tac_toe/lib",
+		"/home/drew/Dropbox/the_odin_project/OOP/tic_tac_toe/lib/tic_tac_toe",
+		"/home/drew/Dropbox/the_odin_project/OOP/tic_tac_toe/spec"
 	],
 	"file_history":
 	[
+		"/home/drew/Dropbox/the_odin_project/OOP/tic_tac_toe/Gemfile",
+		"/home/drew/Dropbox/the_odin_project/OOP/tic_tac_toe/tic_tac_toe.gemspec",
 		"/home/drew/Dropbox/the_odin_project/OOP/tic_tac_toe/tic_tac_toe.rb",
 		"/home/drew/Dropbox/springbot/lunch/lunch/spec/models/restaurant_spec.rb",
 		"/home/drew/Dropbox/springbot/lunch/lunch/spec/models/rating_spec.rb",
@@ -557,9 +726,7 @@
 		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/views/sessions/new.html.erb",
 		"/home/drew/Dropbox/the_odin_project/shouter/shouter/app/views/homes/show.html.erb",
 		"/home/drew/Dropbox/the_odin_project/shouter/readme.txt",
-		"/home/drew/Dropbox/the_odin_project/Jumpstart_static/blogger_advanced/app/views/pages/index.html.erb",
-		"/home/drew/Dropbox/the_odin_project/Jumpstart_static/blogger_advanced/app/views/pages/show.html.erb",
-		"/home/drew/Dropbox/the_odin_project/Jumpstart_static/blogger_advanced/app/controllers/articles_controller.rb"
+		"/home/drew/Dropbox/the_odin_project/Jumpstart_static/blogger_advanced/app/views/pages/index.html.erb"
 	],
 	"find":
 	{
@@ -577,6 +744,7 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"value",
 			"weight",
 			"restaurant",
 			"Restaurant",
@@ -621,8 +789,383 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "lib/tic_tac_toe.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 139,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								139,
+								139
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lib/tic_tac_toe/board.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1154,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								650,
+								650
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "lib/tic_tac_toe/game.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								197,
+								197
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Gemfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 146,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								78,
+								78
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "lib/tic_tac_toe/core_extensions.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 268,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								248,
+								248
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "lib/tic_tac_toe/cell.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 124,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								124,
+								124
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "lib/tic_tac_toe/player.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 168,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								168,
+								168
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 7,
+					"file": "spec/spec_helper.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 76,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35,
+								35
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "spec/player_spec.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 823,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								793,
+								793
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/RSpec/RSpec.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "spec/game_spec.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 640,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								420,
+								420
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/RSpec/RSpec.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 102.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "spec/board_spec.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3498,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3141,
+								3141
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/RSpec/RSpec.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 765.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "spec/core_extensions_spec.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1650,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1646,
+								1646
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/RSpec/RSpec.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 840.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "spec/cell_spec.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 492,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								471,
+								471
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/RSpec/RSpec.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 51.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -643,6 +1186,12 @@
 				0,
 				1,
 				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
 			]
 		],
 		"cols":
@@ -653,6 +1202,7 @@
 		"rows":
 		[
 			0.0,
+			0.5,
 			1.0
 		]
 	},
@@ -739,7 +1289,7 @@
 		],
 		"width": 378.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},
